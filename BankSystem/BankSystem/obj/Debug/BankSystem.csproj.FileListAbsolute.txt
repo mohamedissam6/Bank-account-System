@@ -1,0 +1,12 @@
+F:\cprj\C#prj\BankSystem\BankSystem\bin\Debug\BankSystem.exe.config
+F:\cprj\C#prj\BankSystem\BankSystem\bin\Debug\BankSystem.exe
+F:\cprj\C#prj\BankSystem\BankSystem\bin\Debug\BankSystem.pdb
+F:\cprj\C#prj\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.AssemblyReference.cache
+F:\cprj\C#prj\BankSystem\BankSystem\obj\Debug\BankSystem.Form1.resources
+F:\cprj\C#prj\BankSystem\BankSystem\obj\Debug\BankSystem.Properties.Resources.resources
+F:\cprj\C#prj\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.GenerateResource.cache
+F:\cprj\C#prj\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
+F:\cprj\C#prj\BankSystem\BankSystem\obj\Debug\BankSystem.exe
+F:\cprj\C#prj\BankSystem\BankSystem\obj\Debug\BankSystem.pdb
+F:\cprj\C#prj\BankSystem\BankSystem\obj\Debug\BankSystem.Form2.resources
+F:\cprj\C#prj\BankSystem\BankSystem\obj\Debug\BankSystem.Form3.resources
